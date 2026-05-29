@@ -30,6 +30,10 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 from typing import Any
+import ssl
+import certifi
+# Override the default SSL context to use certifi's bundle
+ssl._create_default_https_context = lambda: ssl.create_default_context(cafile=certifi.where())
 
 # ---------------------------------------------------------------------------
 # Configuration constants
