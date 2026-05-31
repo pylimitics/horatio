@@ -7,8 +7,8 @@ heading structure, splits each page into headed sections, and writes a
 JSON snapshot suitable for downstream chunking, embedding, and graph
 population.
 
-Derived from securitydocs_weekly_changes.py (Cisco Secure Access weekly
-change monitor).  The change-detection and DITA report functionality has
+Derived from capture-content-original.py (a weekly change monitor
+for a DITA docs site).  The change-detection and DITA report functionality has
 been removed; heading-aware parsing and section splitting have been added.
 """
 
