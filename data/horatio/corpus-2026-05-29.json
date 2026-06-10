@@ -1,0 +1,114 @@
+{
+  "root_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106117.dita",
+  "captured_at": "2026-05-29T22:38:29.502447+00:00",
+  "page_limit": 3,
+  "retries": 3,
+  "retry_backoff": 2.0,
+  "summary": {
+    "pages_captured": 3,
+    "pages_failed": 0,
+    "total_sections": 5
+  },
+  "pages": [
+    {
+      "url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106119.dita",
+      "title": "Before you Begin",
+      "content": "Before you Begin",
+      "sha256": "c3d6df70e966c6cb25d5db924869f38abe238d5d5e72f1de8954c87f10925abe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Before you Begin",
+          "content_offset": 0
+        }
+      ],
+      "sections": [
+        {
+          "heading_level": 1,
+          "heading_text": "Before you Begin",
+          "heading_path": [],
+          "body": "",
+          "source_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106119.dita",
+          "source_title": "Before you Begin"
+        }
+      ]
+    },
+    {
+      "url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106118.dita",
+      "title": "Is This Guide For You",
+      "content": "Is This Guide For You\nThis guide explains how a new customer of Security Cloud Control signs on, creates an enterprise, uses a claim code to integrate their applications\nwith Security Cloud Control, creates user roles and user groups, and onboards firewall and other devices.\nIt is intended for Security Cloud Control administrators with full access to the organization.",
+      "sha256": "8f7cd6c14c9ba696dd2a7e7fdfa5ecaed59b8c212284e20e65cd8cb9d5b8afac",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Is This Guide For You",
+          "content_offset": 0
+        }
+      ],
+      "sections": [
+        {
+          "heading_level": 1,
+          "heading_text": "Is This Guide For You",
+          "heading_path": [],
+          "body": "This guide explains how a new customer of Security Cloud Control signs on, creates an enterprise, uses a claim code to integrate their applications\nwith Security Cloud Control, creates user roles and user groups, and onboards firewall and other devices.\nIt is intended for Security Cloud Control administrators with full access to the organization.",
+          "source_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106118.dita",
+          "source_title": "Is This Guide For You"
+        }
+      ]
+    },
+    {
+      "url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106191.dita",
+      "title": "Overview of Cisco Security Cloud Control",
+      "content": "Overview of Cisco Security Cloud Control\nCisco Security Cloud Control is a security platform that allows you to manage your security products and achieve\nsecurity outcomes from a single integrated interface.\nIntegrating security products in the platform is a streamlined experience. After\npurchasing your subscriptions to Cisco security products, you receive a single email,\nwith a single claim code for all the subscriptions you purchased. Entering the claim\ncode in your new Security Cloud Control organization provisions all your products to\nSecurity Cloud Control simultaneously.\nWithin Security Cloud Control, user and group management occurs at the platform level.\nRoles are assigned to these users and groups to define their privileges for\nadministering Security Cloud Control and the integrated products.\nNavigation between products and tools is intuitive and standardized with a common\nplatform menu and toolbar for all integrated products.\nSecurity Cloud Control provides these additional core services to all integrated products\non the platform:\nPlatform Management: Common services such as managing role-based access control, claiming\nsubscriptions and standardized regional deployment of product instances are\nprovided by Security Cloud Control. By centralizing these functions, Security Cloud Control ensures a consistent user experience in provisioning and managing access\nacross all Cisco security products managed from the platform. Administrators\nreach these common services from the Platform Management menu in the main navigation bar of Security Cloud Control.\nAI Assistant: The Cisco AI Assistant in Security Cloud Control is designed to streamline security operations by providing AI-driven\ninsights, automation, and contextual guidance. It assists administrators in\nmanaging security policies, troubleshooting issues, and optimizing\nconfigurations across Cisco’s security products, including Firewall, Duo, , and Secure Access. By\nleveraging natural language processing and cross-platform intelligence, the\nassistant enhances efficiency, accelerates incident response, and simplifies\nsecurity workflows.\nGlobal Search: The ability to search for values across\nproducts in the platform.\nShared Objects: Creating and managing objects that can be\nshared across devices and policies.\nUnified documentation portal: A documentation \"Help\"\nexperience where all documentation is accessible in one portal.\nProducts You Can Integrate with Security Cloud Control\nFrom Security Cloud Control, you can manage all of these security products:\nAI Defense\nSecurity Cloud Control Firewall Management\nMulticloud Defense\nSecure Access\nSecure Workload\nProducts You Can Launch from Security Cloud Control\nFrom Security Cloud Control, you can launch these security products. After launch, these products operate as standalone products and you cannot manage them through Security Cloud Control. You can only claim or deactivate the licenses of such products from Security Cloud Control.\nIn the Security Cloud Control toolbar, click the nine-dot menu to launch these products:\nCisco Secure Email Threat Defense\nCisco Secure Endpoint\nCisco Duo\nCisco XDR",
+      "sha256": "de608d9182b0e18d18146fb98366cda1323546ad5d082c6fbb58d3ce457c554b",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Overview of Cisco Security Cloud Control",
+          "content_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Products You Can Integrate with Security Cloud Control",
+          "content_offset": 2419
+        },
+        {
+          "level": 2,
+          "text": "Products You Can Launch from Security Cloud Control",
+          "content_offset": 2653
+        }
+      ],
+      "sections": [
+        {
+          "heading_level": 1,
+          "heading_text": "Overview of Cisco Security Cloud Control",
+          "heading_path": [],
+          "body": "Cisco Security Cloud Control is a security platform that allows you to manage your security products and achieve\nsecurity outcomes from a single integrated interface.\nIntegrating security products in the platform is a streamlined experience. After\npurchasing your subscriptions to Cisco security products, you receive a single email,\nwith a single claim code for all the subscriptions you purchased. Entering the claim\ncode in your new Security Cloud Control organization provisions all your products to\nSecurity Cloud Control simultaneously.\nWithin Security Cloud Control, user and group management occurs at the platform level.\nRoles are assigned to these users and groups to define their privileges for\nadministering Security Cloud Control and the integrated products.\nNavigation between products and tools is intuitive and standardized with a common\nplatform menu and toolbar for all integrated products.\nSecurity Cloud Control provides these additional core services to all integrated products\non the platform:\nPlatform Management: Common services such as managing role-based access control, claiming\nsubscriptions and standardized regional deployment of product instances are\nprovided by Security Cloud Control. By centralizing these functions, Security Cloud Control ensures a consistent user experience in provisioning and managing access\nacross all Cisco security products managed from the platform. Administrators\nreach these common services from the Platform Management menu in the main navigation bar of Security Cloud Control.\nAI Assistant: The Cisco AI Assistant in Security Cloud Control is designed to streamline security operations by providing AI-driven\ninsights, automation, and contextual guidance. It assists administrators in\nmanaging security policies, troubleshooting issues, and optimizing\nconfigurations across Cisco’s security products, including Firewall, Duo, , and Secure Access. By\nleveraging natural language processing and cross-platform intelligence, the\nassistant enhances efficiency, accelerates incident response, and simplifies\nsecurity workflows.\nGlobal Search: The ability to search for values across\nproducts in the platform.\nShared Objects: Creating and managing objects that can be\nshared across devices and policies.\nUnified documentation portal: A documentation \"Help\"\nexperience where all documentation is accessible in one portal.",
+          "source_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106191.dita",
+          "source_title": "Overview of Cisco Security Cloud Control"
+        },
+        {
+          "heading_level": 2,
+          "heading_text": "Products You Can Integrate with Security Cloud Control",
+          "heading_path": [
+            "Overview of Cisco Security Cloud Control"
+          ],
+          "body": "From Security Cloud Control, you can manage all of these security products:\nAI Defense\nSecurity Cloud Control Firewall Management\nMulticloud Defense\nSecure Access\nSecure Workload",
+          "source_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106191.dita",
+          "source_title": "Overview of Cisco Security Cloud Control"
+        },
+        {
+          "heading_level": 2,
+          "heading_text": "Products You Can Launch from Security Cloud Control",
+          "heading_path": [
+            "Overview of Cisco Security Cloud Control"
+          ],
+          "body": "From Security Cloud Control, you can launch these security products. After launch, these products operate as standalone products and you cannot manage them through Security Cloud Control. You can only claim or deactivate the licenses of such products from Security Cloud Control.\nIn the Security Cloud Control toolbar, click the nine-dot menu to launch these products:\nCisco Secure Email Threat Defense\nCisco Secure Endpoint\nCisco Duo\nCisco XDR",
+          "source_url": "https://securitydocs.cisco.com/docs/scc/gsg/new/106191.dita",
+          "source_title": "Overview of Cisco Security Cloud Control"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
